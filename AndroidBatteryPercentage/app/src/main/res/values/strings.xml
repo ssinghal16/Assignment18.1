@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBatteryPercentage</string>
+    <string name="Android_Battery_Percentage">Battery Level Remaining:</string>
+</resources>
